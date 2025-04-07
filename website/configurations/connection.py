@@ -41,4 +41,5 @@ def testing_db_conenction():
   except Exception as e:
     print(e)
 
-testing_db_conenction()
+# Uncomment the function beloow to test the connection
+#testing_db_conenction()
